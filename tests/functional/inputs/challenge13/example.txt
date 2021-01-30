@@ -1,0 +1,1 @@
+{"prefix": "title=Announcement;content=", "suffix": ";type=jibberjabber", "key": "a8^E2_ao1eTb#)s`P", "iv": "Some IV...", "token": "You got it!"}

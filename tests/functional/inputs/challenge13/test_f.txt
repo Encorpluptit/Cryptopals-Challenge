@@ -1,0 +1,1 @@
+{"prefix": "And more, much more that this", "suffix": "I did it my way", "key": "7[\\]|Ft{h*0&C`4W$Ca\\/3Kn/+XN+]-Q", "iv": "Yes, it was my way", "token": "You got it!"}

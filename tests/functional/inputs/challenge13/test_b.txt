@@ -1,0 +1,1 @@
+{"prefix": "SomeBODY once told me", "suffix": "the world is gonna roll me", "key": "a^x&Nk's8(a2@pq0_", "iv": "That's an IV too", "token": "You got it!"}
